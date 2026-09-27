@@ -8,4 +8,4 @@ Website: [tellmylore.com](https://tellmylore.com)
 
 ## Docs
 
-- [Product Specification](life_docs/product_spec.md): vision, data model, feature pillars, Saga design, sharing (Postcards), privacy & security architecture, roadmap
+- [Product Specification](lore_docs/product_spec.md): vision, data model, feature pillars, Saga design, sharing (Postcards), privacy & security architecture, roadmap
